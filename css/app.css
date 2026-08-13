@@ -20,3 +20,7 @@ body{background:var(--bw-bg);color:var(--bw-text);font-family:"Microsoft YaHei",
 /* Final polish timing */
 .film-started .stage-head{opacity:0;animation:hudIn .7s ease 1.2s forwards}.film-started .caption{opacity:0;animation:captionIn .7s ease 2.1s forwards}.film-started .side{opacity:0;animation:choicesIn .7s ease 3.1s forwards}.film-started .timeline{opacity:0;animation:hudIn .7s ease 1.5s forwards}@keyframes hudIn{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}@keyframes captionIn{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}@keyframes choicesIn{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 #opening .opening-copy p{display:none}#opening .opening-copy{bottom:11vh}#opening .opening-copy button{margin-top:30px}.opening-copy h1{margin-bottom:8px}.opening-en{margin-bottom:18px}
+/* Black-screen guard: keep opening cinematic but never cover the page permanently */
+#opening:before{z-index:1;animation:openingBlack 2s ease .2s forwards}
+.opening-bg{z-index:0;opacity:0;animation:openingPhoto 8s ease .8s forwards}
+.opening-copy,.opening-meta,.opening-corner{z-index:5}
