@@ -12,3 +12,4 @@ function finish(){document.querySelector('.recap').classList.add('show');const s
 $('undo').onclick=()=>{if(!state.history.length)return;Object.assign(state,state.history.pop());state.i=Math.max(0,state.i-1);render();renderPhoto()};$('restart').onclick=()=>location.reload();const _render=render;render=()=>{_render();renderPhoto()};render();
 
 
+
