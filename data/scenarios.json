@@ -1,0 +1,1 @@
+{"title":"预警之前","subtitle":"你会在第几秒做出正确选择？","sceneCount":15,"note":"完整剧情数据与选择效果位于 data/scenarios.js；此 JSON 作为课程展示时的数据结构说明。","sceneSchema":{"scene":"场景","choices":"选择数组","requirements":"前置条件","effects":"即时效果","delayedEffects":"延迟效果","nextScene":"下一场景"}}

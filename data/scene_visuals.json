@@ -1,0 +1,20 @@
+{
+  "version": "prototype-0.3",
+  "policy": "主要剧情场景必须引用本地真实摄影资产；缺失时显示开发占位并明确标记，不得伪装为成品。",
+  "assets": [
+    {"id":"warning-campus","filename":"assets/images/scenes/campus-warning.webp","scene":"warning","timeOfDay":"傍晚","rainLevel":1,"location":"大学校园","description":"暴雨前的校园与手机预警","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"hall-notice","filename":"assets/images/scenes/teaching-hall-notice.webp","scene":"hall","timeOfDay":"傍晚","rainLevel":2,"location":"教学楼大厅","description":"学生查看学校通知","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"cafeteria-rain","filename":"assets/images/scenes/cafeteria-first-rain.webp","scene":"cafeteria","timeOfDay":"傍晚","rainLevel":3,"location":"食堂门口","description":"第一阵雨落下","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"dorm-pack","filename":"assets/images/scenes/dorm-emergency-pack.webp","scene":"dorm","timeOfDay":"傍晚","rainLevel":3,"location":"学生宿舍","description":"整理应急物资","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"campus-road-wet","filename":"assets/images/scenes/campus-road-wet.webp","scene":"road","timeOfDay":"傍晚","rainLevel":4,"location":"校园主路","description":"路面出现积水","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"metro-entrance","filename":"assets/images/scenes/metro-entrance-rain.webp","scene":"metro","timeOfDay":"傍晚","rainLevel":5,"location":"地铁入口","description":"入口积水与封闭提示","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"bus-stop","filename":"assets/images/scenes/bus-stop-storm.webp","scene":"bus","timeOfDay":"傍晚","rainLevel":5,"location":"公交站","description":"公交减速驶过雨幕","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"road-closed","filename":"assets/images/scenes/road-closed.webp","scene":"closure","timeOfDay":"夜间","rainLevel":6,"location":"校门道路","description":"警戒线与工作人员改道","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"network-room","filename":"assets/images/scenes/network-loss-room.webp","scene":"network","timeOfDay":"夜间","rainLevel":6,"location":"宿舍房间","description":"网络拥堵中的室内联系","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"rumor-phone","filename":"assets/images/scenes/rumor-phone.webp","scene":"rumor","timeOfDay":"夜间","rainLevel":6,"location":"校园北门","description":"无来源短视频消息","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"high-ground-route","filename":"assets/images/scenes/high-ground-route.webp","scene":"reroute","timeOfDay":"夜间","rainLevel":7,"location":"高地路线","description":"积水区扩张后的改道","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"gym-shelter","filename":"assets/images/scenes/gym-shelter.webp","scene":"shelter","timeOfDay":"夜间","rainLevel":7,"location":"体育馆","description":"学生有序进入安全区","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"power-outage","filename":"assets/images/scenes/power-outage.webp","scene":"power","timeOfDay":"夜间","rainLevel":8,"location":"体育馆一层","description":"应急灯亮起","source":"待补充","license":"待补充","status":"missing"},
+    {"id":"after-storm","filename":"assets/images/scenes/after-storm.webp","scene":"aftermath","timeOfDay":"清晨","rainLevel":1,"location":"安全集合点","description":"雨后校园与复盘","source":"待补充","license":"待补充","status":"missing"}
+  ]
+}

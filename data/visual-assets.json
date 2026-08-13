@@ -1,0 +1,233 @@
+[
+  {
+    "id": "campus-warning",
+    "file": "assets/images/scenes/01-campus-warning.webp",
+    "location": "教学楼东侧",
+    "weatherStage": "雨前",
+    "timeOfDay": "傍晚",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "classroom-warning",
+    "file": "assets/images/scenes/02-classroom-warning.webp",
+    "location": "教学楼大厅",
+    "weatherStage": "初雨",
+    "timeOfDay": "傍晚",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "campus-light-flood",
+    "file": "assets/images/scenes/03-campus-light-flood.webp",
+    "location": "校园主路",
+    "weatherStage": "小范围积水",
+    "timeOfDay": "傍晚",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "dorm-room",
+    "file": "assets/images/scenes/04-dorm-room.webp",
+    "location": "学生宿舍",
+    "weatherStage": "中雨",
+    "timeOfDay": "傍晚",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "campus-heavy-rain",
+    "file": "assets/images/scenes/05-campus-heavy-rain.webp",
+    "location": "校园道路",
+    "weatherStage": "强雨",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "metro-route",
+    "file": "assets/images/scenes/06-metro-route.webp",
+    "location": "地铁通道",
+    "weatherStage": "强雨",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "metro-entrance",
+    "file": "assets/images/scenes/07-metro-entrance.webp",
+    "location": "地铁入口",
+    "weatherStage": "入口积水",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "bus-stop",
+    "file": "assets/images/scenes/08-bus-stop.webp",
+    "location": "公交站",
+    "weatherStage": "交通减速",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "underpass",
+    "file": "assets/images/scenes/09-underpass.webp",
+    "location": "地下通道",
+    "weatherStage": "高风险",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "road-closure",
+    "file": "assets/images/scenes/10-road-closure.webp",
+    "location": "校门道路",
+    "weatherStage": "道路封闭",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "campus-gate",
+    "file": "assets/images/scenes/11-campus-gate.webp",
+    "location": "校园北门",
+    "weatherStage": "强雨",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "low-ground",
+    "file": "assets/images/scenes/12-low-ground.webp",
+    "location": "低洼路口",
+    "weatherStage": "积水扩大",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "network-loss",
+    "file": "assets/images/scenes/13-network-loss.webp",
+    "location": "宿舍房间",
+    "weatherStage": "通讯拥堵",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "power-outage",
+    "file": "assets/images/scenes/14-power-outage.webp",
+    "location": "体育馆一层",
+    "weatherStage": "局部停电",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "help-roommate",
+    "file": "assets/images/scenes/15-help-roommate.webp",
+    "location": "宿舍走廊",
+    "weatherStage": "强雨",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "medical-point",
+    "file": "assets/images/scenes/16-medical-point.webp",
+    "location": "医务点",
+    "weatherStage": "峰值",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "reroute",
+    "file": "assets/images/scenes/17-reroute.webp",
+    "location": "高地路线",
+    "weatherStage": "改道",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "deep-water",
+    "file": "assets/images/scenes/18-deep-water.webp",
+    "location": "深积水道路",
+    "weatherStage": "危险",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "shelter",
+    "file": "assets/images/scenes/19-shelter.webp",
+    "location": "体育馆",
+    "weatherStage": "避险",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "safe-building",
+    "file": "assets/images/scenes/20-safe-building.webp",
+    "location": "安全建筑",
+    "weatherStage": "避险",
+    "timeOfDay": "夜间",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  },
+  {
+    "id": "aftermath",
+    "file": "assets/images/scenes/21-aftermath.webp",
+    "location": "安全集合点",
+    "weatherStage": "雨后",
+    "timeOfDay": "清晨",
+    "status": "TEMP_UPSCALED_REFERENCE",
+    "productionReady": false,
+    "visualQA": "pending",
+    "sourceType": "contact_sheet_crop_upscaled"
+  }
+]

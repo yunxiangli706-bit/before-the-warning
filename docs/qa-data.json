@@ -1,0 +1,14 @@
+{
+  "version": "Prototype 0.3",
+  "sceneNodes": 25,
+  "choices": 75,
+  "conditionalBranches": 6,
+  "delayedEffects": 10,
+  "flags": 24,
+  "reachableEndings": 4,
+  "testedPaths": 10,
+  "realSceneImages": 0,
+  "missingSceneImages": 14,
+  "textIssuesFixed": 40,
+  "consoleErrors": "not-run-in-browser"
+}
